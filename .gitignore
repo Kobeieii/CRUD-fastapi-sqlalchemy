@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 
 # data in db
-**/postgres/data/
+**/postgres/data/*
 
 # C extensions
 *.so
