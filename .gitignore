@@ -4,7 +4,10 @@ __pycache__/
 *$py.class
 
 # data in db
-postgres/data/*
+postgres/data/**/
+postgres/data/*.conf
+postgres/data/PG_VERSION
+postgres/data/*.opts
 
 # C extensions
 *.so
